@@ -1,6 +1,6 @@
 Pequeña pratica de docker
 
-se creo una pequeña aplicacion rest en flask, para depuer crear un contenedor docker.
+se creo una pequeña aplicacion rest en flask, para despues crear un contenedor docker.
 
 *Nota: para levantar el entorno virtual de python en windows, se ejecuta el comando:  Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
 
